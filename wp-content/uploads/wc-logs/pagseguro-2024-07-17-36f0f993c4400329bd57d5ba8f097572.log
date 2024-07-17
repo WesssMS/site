@@ -1,0 +1,12 @@
+2024-07-17T01:38:10+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-17T01:38:10+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => cd911763580a4a5b9763ad56573e1567
+)
+ CONTEXT: {"_legacy":true}
+2024-07-17T01:38:16+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-17T01:38:17+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 4f94e85c53fa400c9eddcef00493ab11
+)
+ CONTEXT: {"_legacy":true}
